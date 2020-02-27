@@ -54,22 +54,20 @@
 .categories1{
     margin-top: 100px;
 }
-.img1{
-    border: 2px solid rebeccapurple;
-}
-.img2{
-    border: 2px solid rebeccapurple;
+.b-img{
+    margin-bottom: 100px;
 }
 .img3{
-    border: 2px solid rebeccapurple;
-}
-.pale-order{
-    border: 2px solid rebeccapurple;
+    border-top: 50px;
 }
 .pale-order img{
     width: 100%;
     height: 100%;
 }
 h4{
+    text-align: center;
+}
+footer{
+    margin-top: 100px;
     text-align: center;
 }
